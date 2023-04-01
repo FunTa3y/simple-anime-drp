@@ -2,6 +2,10 @@
 
 Простенький Anime Rich Presence написанный на python для отображения текущего аниме в игровой активности
 
+# Демо
+![image](https://user-images.githubusercontent.com/82530729/229299563-1ec882ee-b3f3-4746-a398-6b8cdb959293.png)![image](https://user-images.githubusercontent.com/82530729/229299687-da638e21-1ab4-48ec-83df-7fb3b388d547.png)
+
+
 # Установка (.exe файла)
 * Распаковать Приложение вместе с конфигом в удобное для вас место 
 * Настроить config.json и запустить
